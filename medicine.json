@@ -1,0 +1,58 @@
+{
+    "categories": [
+      {
+        "name": "Analgesics",
+        "items": [
+          { "id": "oxycodone", "name": "Oxycodone", "price": 5 },
+          { "id": "hydrocodone", "name": "Hydrocodone", "price": 7 },
+          { "id": "tramadol", "name": "Tramadol", "price": 8 },
+          { "id": "methadone", "name": "Methadone", "price": 12 },
+          { "id": "ketoprofen", "name": "Ketoprofen", "price": 10 },
+          { "id": "diclofenac", "name": "Diclofenac", "price": 9 }
+        ]
+      },
+      {
+        "name": "Antibiotics",
+        "items": [
+          { "id": "ampicillin", "name": "Ampicillin", "price": 10 },
+          { "id": "clarithromycin", "name": "Clarithromycin", "price": 12 },
+          { "id": "tetracycline", "name": "Tetracycline", "price": 15 },
+          { "id": "doxycycline", "name": "Doxycycline", "price": 18 },
+          { "id": "amikacin", "name": "Amikacin", "price": 20 },
+          { "id": "moxifloxacin", "name": "Moxifloxacin", "price": 22 }
+        ]
+      },
+      {
+        "name": "Antidepressants",
+        "items": [
+          { "id": "vilazodone", "name": "Vilazodone", "price": 15 },
+          { "id": "nefazodone", "name": "Nefazodone", "price": 18 },
+          { "id": "trazodone", "name": "Trazodone", "price": 17 },
+          { "id": "ketamine", "name": "Ketamine", "price": 20 },
+          { "id": "isocarboxazid", "name": "Isocarboxazid", "price": 16 },
+          { "id": "escitalopram", "name": "Escitalopram", "price": 19 }
+        ]
+      },
+      {
+        "name": "Antihistamines",
+        "items": [
+          { "id": "desloratadine", "name": "Desloratadine", "price": 10 },
+          { "id": "levocetirizine", "name": "Levocetirizine", "price": 12 },
+          { "id": "famotidine", "name": "Famotidine", "price": 15 },
+          { "id": "nizatidine", "name": "Nizatidine", "price": 18 }
+        ]
+      },
+      {
+        "name": "Antihypertensives",
+        "items": [
+          { "id": "amlodipine", "name": "Amlodipine", "price": 12 },
+          { "id": "lisinopril", "name": "Lisinopril", "price": 15 },
+          { "id": "losartan", "name": "Losartan", "price": 18 },
+          { "id": "metoprolol", "name": "Metoprolol", "price": 20 },
+          { "id": "atenolol", "name": "Atenolol", "price": 10 },
+          { "id": "ramipril", "name": "Ramipril", "price": 14 }
+        ]
+      }
+    ]
+  }
+  
