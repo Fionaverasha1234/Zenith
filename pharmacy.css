@@ -129,16 +129,16 @@ h1 {
     color: #007bff; 
 }
 
-
 section {
     margin: 20px auto;
     padding: 15px;
     max-width: 800px;
     border: 1px solid #b49090; 
     border-radius: 8px;
-     background-color: #c2d6df;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    background-color: #c2d6df; 
+    box-shadow: 0 4px 6px rgba(222, 218, 218, 0.1); 
 }
+
 
 
 h2 {
