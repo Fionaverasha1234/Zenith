@@ -65,7 +65,7 @@ nav ul li a {
 }
 
 nav a:hover {
-    background-color: #555;
+    background-color: #dfc9c9;
     width:20%
 }
 .search-bar {
@@ -129,6 +129,7 @@ h1 {
     color: #007bff; 
 }
 
+
 section {
     margin: 20px auto;
     padding: 15px;
@@ -146,6 +147,7 @@ h2 {
     border-bottom: 2px solid #d0abab; 
     padding-bottom: 5px;
 }
+
 
 .item {
     display: flex;
@@ -176,7 +178,6 @@ h2 {
 }
 
 
-
 button {
     background-color: #9ab3c6;
     color: white;
@@ -186,6 +187,7 @@ button {
     cursor: pointer;
     font-size: 14px;
 }
+
 
 button:hover {
     background-color: #0056b3;
@@ -200,7 +202,7 @@ table {
 
 
 table th {
-    background-color: #007bff;
+    background-color: #8abaee;
     color: white; 
     padding: 10px;
     text-align: left;
@@ -492,3 +494,14 @@ footer {
         margin: 5px;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
