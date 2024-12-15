@@ -188,11 +188,16 @@ button {
     font-size: 14px;
 }
 
+
+
+
+
 table {
     width: 100%;
     border-collapse: collapse; 
     margin-top: 15px;
 }
+
 
 table th {
     background-color: #8abaee;
@@ -220,6 +225,14 @@ table td {
     margin: 10px 5px 0 0; 
     display: inline-block;
 }
+
+
+
+
+
+
+
+
 
 
 footer {
@@ -479,14 +492,3 @@ footer {
         margin: 5px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
