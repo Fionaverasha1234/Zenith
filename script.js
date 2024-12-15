@@ -183,7 +183,7 @@ buyNowButton.addEventListener('click', () => {
   alert('Purchase successful! Thank you for your order.');
   cart = []; // Clear cart
   updateCartTable();
-  window.location.href = 'payment.html';
+  window.location.href = 'Payment.html';
 });
 
 // Initialize Application
